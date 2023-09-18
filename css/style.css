@@ -1,0 +1,104 @@
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5,h6, p, ul,{
+
+}
+header{
+ 
+width: 90%;
+/* background: red; */
+margin: auto;
+display: flex;
+justify-content: space-between;
+
+margin: auto;
+align-items: center;
+padding: 30px o;
+}
+.logo img{
+
+}
+nav{
+  
+width: 50%;
+
+}
+nav ul{
+ 
+list-style: none;
+display: flex;
+justify-content: right;
+}
+nav ul li{
+
+margin-left: 50px;   
+
+}
+nav ul li a{
+
+text-decoration: none;
+color: #626262;    
+text-transform: uppercase;
+font-family: 'playfair Display', serif;
+}
+.banner{
+
+width: 90%;
+margin: auto; 
+
+}
+.banner img{
+    width: 100%;
+}
+
+.weekend{
+width: 80%;
+margin: auto;
+padding: 100px 0;
+
+}
+.weekend h4{
+font-family: 'Ubuntu', sans-serif;
+
+
+color: #b4ad9e; 
+text-transform: uppercase;
+margin-bottom: 15px; 
+font-weight: 500;  
+font-size: 15px;
+
+}
+.weekend h1{
+
+color: #626262;
+font-size: 35px;   
+margin-bottom: 15px; 
+font-family: 'playfair Display',serif;
+font-weight: 400;
+
+}
+.weekend p{
+
+color: #626262; 
+margin-bottom: 15px;
+font-family: 'playfair Display',serif;
+
+
+
+}
+.weekend a{
+
+text-decoration: none;
+color: #b4ad9e;
+text-transform: uppercase;  
+font-family: 'Ubuntu', sans-serif;
+font-size: 15px;
+
+  
+
+}
